@@ -1,0 +1,13 @@
+{
+    "name": "techzeph-todo-cli",
+    "version": "1.0.0",
+    "description": "Local CLI tool for managing project TODO JSONs that sync with the TechZeph portfolio terminal.",
+    "main": "lib/cli.js",
+    "bin": {
+      "todo": "./bin/todo"
+    },
+    "author": "TechZeph",
+    "license": "MIT",
+    "type": "module"
+  }
+  
