@@ -1,7 +1,3 @@
-✔ CLEAN README.md (Fully Copy/Paste Safe)
-
-Paste this directly into README.md in your repository:
-
 TechZeph TODO CLI
 
 A lightweight, cross-platform command-line tool for managing project task lists stored in todo.json files.
